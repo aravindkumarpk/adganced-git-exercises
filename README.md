@@ -1,1 +1,1 @@
-# adganced-git-exercises
+# advanced-git-exercises
